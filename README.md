@@ -1,2 +1,5 @@
 # hello-world
-New repo test
+
+Hi everyone
+
+this is the beginning of a new repository, of the transantiago Sonda platform 
